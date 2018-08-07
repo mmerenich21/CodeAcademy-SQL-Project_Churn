@@ -1,0 +1,3 @@
+select id, subscription_start, subscription_end, segment
+ from subscriptions
+ order by 2;
