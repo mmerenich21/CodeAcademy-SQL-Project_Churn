@@ -1,0 +1,3 @@
+ select *
+ from subscriptions
+ limit 100;
