@@ -1,2 +1,2 @@
 # CA_SQL-Project_Churn
-Codeacademy Learn SQL from Scratch Capstone Project - Calculating Churn 
+A compilation of exercises as part of the Codeacademy Learn SQL from Scratch course. Our Capstone project was based on calculating churn. 
